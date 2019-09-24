@@ -1,6 +1,6 @@
 # Learning Sturctured Commnunication
 
-A Tensorflow implementation of `LSC`.
+A Tensorflow implementation of "Learning Structured Communication for Multi-Agent Reinforcement Learning" (ICLR 2020 OpenReview).
 
  
 ## Code structure
