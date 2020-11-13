@@ -18,7 +18,7 @@ setup(
     ],
     install_requires=[
         'absl-py==0.7.0',
-        'tensorflow-gpu==1.13.1',
+        'tensorflow-gpu==2.3.1',
         'tensorflow-probability==0.5.0',
         'tensorflow-probability-gpu==0.4.0',
         'numpy>=1.10',
